@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "376856540028",
+    "firebase_url": "https://pmmb-batch-2-2023-ptpn-1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pmmb-batch-2-2023-ptpn-1",
+    "storage_bucket": "pmmb-batch-2-2023-ptpn-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376856540028:android:3171cc6f8f9058ea576af9",
+        "android_client_info": {
+          "package_name": "com.pksts.reqpair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHtF5c5vWsLXa9kTYXn8Pkgxpo23IdgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376856540028:android:ad60c5832ed9e541576af9",
+        "android_client_info": {
+          "package_name": "com.pksts.reqpair_teknik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHtF5c5vWsLXa9kTYXn8Pkgxpo23IdgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

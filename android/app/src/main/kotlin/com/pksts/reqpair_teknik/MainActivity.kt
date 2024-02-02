@@ -1,4 +1,4 @@
-package com.example.reqpair_teknik
+package com.pksts.reqpair_teknik
 
 import io.flutter.embedding.android.FlutterActivity
 
